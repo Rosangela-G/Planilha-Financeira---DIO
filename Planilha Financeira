@@ -1,0 +1,11 @@
+echo "# Planilha-Financeira---DIO" >> README.md 
+git init 
+git add README.md 
+git commit -m "primeiro commit" 
+git branch -M main 
+git remote add origin https://github.com/Rosangela-G/Planilha-Financeira---DIO.git
+ git push -u origin main
+
+
+Planilha criada em Excel e testada a analise dos dados em CHatGPT, conforme intruído no programa CAIXA - IA Generativa com Microsoft Copilot.
+Utilizado EXCEL, dados fictícios para alimentar a planilha, e testado no ChatGPT para veririfcar se a análise era real como a da planilha.
